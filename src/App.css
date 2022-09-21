@@ -1,8 +1,7 @@
 .header {
   height: 100px;
   width: auto;
-  background-color: #dddddd;
-  padding-top: 50px;
+  padding-top: 10px;
 }
 
 .card-container {
